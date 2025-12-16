@@ -1,11 +1,11 @@
 # Traces-collectives
-Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire.
+Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire par Letchoumy Thiagaradja et Thaï LAI
 
 ## Les prérequis
-1. Ordinateur
-2. Vidéo projecteur
+1. Un ordinateur avec au moins une carte graphique
+2. Un vidéo projecteur (préférablement courte focale)
 3. AugmentaFusion
-4. [TouchDesigner] (https://derivative.ca/download)
+4. [TouchDesigner](https://derivative.ca/download)
 
 ## AugmentaFusion
 Documentation pour mieux comprendre augmenta fusion : 
