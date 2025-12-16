@@ -31,7 +31,7 @@ Un visiteur entre dans la salle du dispositif et il voit des traces colorées au
 
 Il entre ensuite dans la zone de captation et reveil le dispositif qui lui indique un chemin
 
-Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa ==trace personnelle== par dessus les autres.
+Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa  ==trace personnelle==  par dessus les autres.
 
 A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives.
 
