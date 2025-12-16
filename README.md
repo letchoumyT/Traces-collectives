@@ -24,7 +24,7 @@ La `mémoire collective` est une notion abstraite qui existe déjà et à laquel
 
 Au cours de cette balade au sein du dispositif, nous explorons l’espace qui nous accueille, la mémoire collective déjà présente en ces lieux,et nous y laissons à notre tour une trace individuelle qui par la suite participera à la mémoire collective.
 
-### principe du dispositif
+### Principe du dispositif
 Le dispositif est conçu pour une `experience individuelle`.
 
 Un visiteur entre dans la salle du dispositif et il voit des traces colorées au sol.
