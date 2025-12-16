@@ -62,6 +62,6 @@ Le workshop durant 3 jours , pour que le dispositif soit fonctionnelle nous avon
 
 ## Feedback
 
-- Plusieurs visiteurs ont remarqué que le dispositif les rappelle du «chemin de désir» («desired path»). Ça serait intéressante pour eux de voir un chemin de désir remonte au fur et à mesure du dispositif.
-- Les compliments étaient nombreux : les visiteurs ont aimé les visuels organiques et très colorés, beaucoup plus vivants qu'un carte de chaleur ou qu'un dispositif de tracking.
-- Pourtant, certains visiteurs ont terminé trop tôt leur expériences, et nous avons dû les réexpliquer le principe et les réinviter à se déambuler dans l'espace. Une autre point qui n'a pas correspondu à ce qu'on a imaginé : tous les visiteurs sont très timides dans l'espace, ils marchent comme s'ils étaient sur les oeufs. On a dû les suggérer à danser, à ouvrir leurs bras, à essayer d'autre types d'interactions.
+- Plusieurs visiteurs ont remarqué que le dispositif leur rappel le [chemin de désir]'(https://fr.wikipedia.org/wiki/Ligne_de_d%C3%A9sir). Ça serait intéressant pour eux de voir ce genre de chemin remonter au fur et à mesure du dispositif.
+- Les points positifs : les visiteurs ont aimé les visuels organiques et très colorés,plus vivants qu'une carte thermique ou qu'un dispositif de tracking.
+- Pourtant, certains visiteurs ont terminé trop tôt leur expériences, et nous avons dû leur réexpliquer le principe et les réinviter à se déambuler dans l'espace. Une autre point qui n'a pas correspondu à ce qu'on a imaginé : tous les visiteurs sont très timides dans l'espace, ils marchent comme s'ils étaient sur les oeufs. On a dû les suggérer à danser, à ouvrir leurs bras, à essayer d'autre types d'interactions.
