@@ -1,5 +1,5 @@
 # Traces-collectives
-Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire par Letchoumy Thiagaradja et Thaï LAI
+Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire par Letchoumy THIAGARADJA et Thaï LAI
 
 ## Les prérequis
 1. Un ordinateur avec au moins une carte graphique
