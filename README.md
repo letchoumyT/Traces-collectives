@@ -46,7 +46,7 @@ A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut vi
 3. Sur TouchDesigner : 
     1. Ouvrir le fichier ``tracecollectivetd.toe` dans le dossier `tracecollectivetd`.
     2. Le dispositif devrait marcher tout de suite. 
-    ![alt text](photos/tuio.jpg)
+    ![alt text](photos/tuio.png)
     Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
 
 ## Points d'amelioration 
