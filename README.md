@@ -14,7 +14,7 @@ Documentation pour mieux comprendre augmenta fusion :
 2. 
 
 ## Description 
-## Le but ?
+### Le but ?
 Ce projet parle de la mémoire collective et de son lien avec la mémoire individuelle. Le but est que l’utilisateur puisse laisser une trainée derrière lui.Chaque trace individuelle va se superposer aux autres et ainsi constituer une mémoire collective.
 
 ### La mémoire collective pour nous ?
