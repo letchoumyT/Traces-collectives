@@ -4,14 +4,16 @@ Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de 
 ## Les prérequis
 1. Un ordinateur avec au moins une carte graphique
 2. Un vidéo projecteur (préférablement courte focale)
-3. AugmentaFusion
+3. [AugmentaFusion](https://augmenta.tech/contact/)
 4. [TouchDesigner](https://derivative.ca/download)
 
 ## AugmentaFusion
-Documentation pour mieux comprendre augmenta fusion : 
+Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmenta. Il y a aussi la documentation pour mieux comprendre le logiciel : 
 
-1. [Les exemples](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
-2. 
+1. [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
+1. [Les exemples TouchDesigner avec TUIO output](https://github.com/Augmenta-tech/Augmenta-TouchDesigner/)
+2. [Les exemples TouchDesigner avec OSCV3 output](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
+ 
 
 ## Description 
 
@@ -40,14 +42,20 @@ A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut vi
 2. Sur Augmenta Fusion :
     1. Ouvrir le fichier `trace_collective.fusion` dans le dossier `fichier_augmenta_fusion`.
     2. Ajouter le source `Augmenta node`
-    3. Assurer que le Scene size & Scene rotation est pareil que ceux du Source. 
+    3. Assurer que le `Scene size` & `Scene rotation` est pareil que ceux du Source. 
     4. Cliquer sur "Scene" et chercher le bouton pour recalibrer le background et floor.
-    5. Verifier il y a bien un output a TouchDesigner : Source -> add specific node -> output -> TUIO
+    5. Verifier il y a bien un output a TouchDesigner : `Source -> add specific node -> output -> TUIO`
 3. Sur TouchDesigner : 
     1. Ouvrir le fichier ``tracecollectivetd.toe` dans le dossier `tracecollectivetd`.
-    2. Le dispositif devrait marcher tout de suite. 
+    2. Le dispositif devrait marcher tout de suite 🥳
     ![alt text](photos/tuio.png)
     Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
 
 ## Points d'amelioration 
 Le workshop durant 3 jours , pour que le dispositif soit fonctionnelle nous avons du faire des choix. Si nous avions eu plus de temps voici ce que l'on aurrais aimé faire ou changer.
+
+## Feedback
+
+- Plusieurs visiteurs ont remarqué que le dispositif les rappelle du «chemin de désir» («desired path»). Ça serait intéressante pour eux de voir un chemin de désir remonte au fur et à mesure du dispositif.
+- Les compliments étaient nombreux : les visiteurs ont aimé les visuels organiques et très colorés, beaucoup plus vivants qu'un carte de chaleur ou qu'un dispositif de tracking.
+- Pourtant, certains visiteurs ont terminé trop tôt leur expériences, et nous avons dû les réexpliquer le principe et les réinviter à se déambuler dans l'espace. Une autre point qui n'a pas correspondu à ce qu'on a imaginé : tous les visiteurs sont très timides dans l'espace, ils marchent comme s'ils étaient sur les oeufs. On a dû les suggérer à danser, à ouvrir leurs bras, à essayer d'autre types d'interactions.
