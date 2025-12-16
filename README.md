@@ -1,6 +1,8 @@
 # Traces-collectives
 Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire par `Letchoumy THIAGARADJA` et `Thaï LAI`.
 
+https://github.com/user-attachments/assets/b29a4610-d9dd-4d3e-9fee-1305e00e1866
+
 ![alt text](photos/sol2.jpg)
 ## Les prérequis
 
