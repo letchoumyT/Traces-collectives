@@ -5,10 +5,10 @@ https://github.com/user-attachments/assets/fe0e2f7e-76fb-4de6-a634-dec73b167043
 
 ## Les prérequis
 
-1. Un ordinateur avec au moins une carte graphique
-2. Un vidéo projecteur (préférablement courte focale)
-3. Configurer AugmentaFusion en contactant leur équipe par [ici](https://augmenta.tech/contact/)
-4. Télécharger [TouchDesigner](https://derivative.ca/download)
+1. Un ordinateur avec au moins une carte graphique.
+2. Un vidéo projecteur (préférablement courte focale).
+3. Configurer AugmentaFusion en contactant leur équipe sur [leur site web](https://augmenta.tech/contact/) ou sur [Discord](https://discord.com/invite/ErWESYXR9x).
+4. Télécharger le logiciel [TouchDesigner](https://derivative.ca/download).
 
 ## Description 
 
@@ -36,28 +36,30 @@ A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut vi
 
 ## Comment configurer et remonter le dispositif
 
-1. Télécharger le dossier `fichier_augmenta_fusion` et `tracecollectivetd`.
+### 1. Télécharger le dossier `fichier_augmenta_fusion` et `tracecollectivetd`.
 
 Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmenta. Il y a aussi quelques documentations pour mieux comprendre le logiciel : 
 
-1. [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
-2. [Les exemples TouchDesigner avec TUIO output](https://github.com/Augmenta-tech/Augmenta-TouchDesigner/)
-3. [Les exemples TouchDesigner avec OSCV3 output](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
+- [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
+- [Les exemples TouchDesigner avec TUIO output](https://github.com/Augmenta-tech/Augmenta-TouchDesigner/)
+- [Les exemples TouchDesigner avec OSCV3 output](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
  
-2. Sur Augmenta Fusion :
+### 2. Sur Augmenta Fusion :
 
-    1. Ouvrir le fichier `trace_collective.fusion` dans le dossier `fichier_augmenta_fusion`.
-    2. Ajouter le source `Augmenta node`
-    3. Assurer que le `Scene size` & `Scene rotation` est pareil que ceux du Source. 
-    4. Cliquer sur "Scene" et chercher le bouton pour recalibrer le background et floor.
-    5. Verifier il y a bien un output a TouchDesigner : `Source -> add specific node -> output -> TUIO`
+1. Ouvrir le fichier `trace_collective.fusion` dans le dossier `fichier_augmenta_fusion`.
+2. Ajouter le source `Augmenta node`
+3. Assurer que le `Scene size` & `Scene rotation` est pareil que ceux du Source. 
+4. Cliquer sur "Scene" et chercher le bouton pour recalibrer le background et floor.
+5. Verifier il y a bien un output a TouchDesigner : `Source -> add specific node -> output -> TUIO`
 
-3. Sur TouchDesigner : 
+### 3. Sur TouchDesigner : 
 
-    1. Ouvrir le fichier ``tracecollectivetd.toe` dans le dossier `tracecollectivetd`.
-    2. Le dispositif devrait marcher tout de suite 🥳
-        Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
-        ![alt text](photos/tuio.png)
+1. Ouvrir le fichier `tracecollectivetd.toe` dans le dossier `tracecollectivetd`.
+2. Le dispositif devrait marcher tout de suite 🥳
+
+    Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
+
+    ![alt text](photos/tuio.png)
 
 ## Points d'amelioration 
 
