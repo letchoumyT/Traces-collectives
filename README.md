@@ -1,9 +1,8 @@
 # Traces-collectives
 Ce projet a été réalisé en 3 jours lors du workshop Erasme sur le thème de la mémoire par `Letchoumy THIAGARADJA` et `Thaï LAI`.
 
-https://github.com/user-attachments/assets/b29a4610-d9dd-4d3e-9fee-1305e00e1866
+https://github.com/user-attachments/assets/fe0e2f7e-76fb-4de6-a634-dec73b167043
 
-![alt text](photos/sol2.jpg)
 ## Les prérequis
 
 1. Un ordinateur avec au moins une carte graphique
@@ -41,11 +40,12 @@ A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut vi
 
 Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmenta. Il y a aussi quelques documentations pour mieux comprendre le logiciel : 
 
-    1. [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
-    1. [Les exemples TouchDesigner avec TUIO output](https://github.com/Augmenta-tech/Augmenta-TouchDesigner/)
-    2. [Les exemples TouchDesigner avec OSCV3 output](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
+1. [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
+2. [Les exemples TouchDesigner avec TUIO output](https://github.com/Augmenta-tech/Augmenta-TouchDesigner/)
+3. [Les exemples TouchDesigner avec OSCV3 output](https://github.com/Augmenta-tech/LABLAB-TouchDesigner-Template)
  
 2. Sur Augmenta Fusion :
+
     1. Ouvrir le fichier `trace_collective.fusion` dans le dossier `fichier_augmenta_fusion`.
     2. Ajouter le source `Augmenta node`
     3. Assurer que le `Scene size` & `Scene rotation` est pareil que ceux du Source. 
@@ -53,14 +53,17 @@ Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmen
     5. Verifier il y a bien un output a TouchDesigner : `Source -> add specific node -> output -> TUIO`
 
 3. Sur TouchDesigner : 
+
     1. Ouvrir le fichier ``tracecollectivetd.toe` dans le dossier `tracecollectivetd`.
     2. Le dispositif devrait marcher tout de suite 🥳
-    ![alt text](photos/tuio.png)
-    Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
+        Si ce n'est pas le cas, assurer que le TUIO port soit le même avec le port dans Augmenta Fusion. 13000 ne devrait pas poser du soucis normalement
+        ![alt text](photos/tuio.png)
 
 ## Points d'amelioration 
 
-Le workshop durant 3 jours , pour que le dispositif soit fonctionnelle nous avons du faire des choix. Si nous avions eu plus de temps voici ce que l'on aurrais aimé faire ou changer.
+Le workshop durant 3 jours , pour que le dispositif soit fonctionnelle nous avons du faire des choix. Si nous avions eu plus de temps voici ce que l'on aurrais aimé faire ou changer :
+
+- Il y a un décalage car la zone de détection d'Augmenta est inférieur à la zone d'affichage du projecteur. Il faut un travail de calibration supplémentaire.
 
 ## Feedback
 
