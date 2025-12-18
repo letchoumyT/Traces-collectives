@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/fe0e2f7e-76fb-4de6-a634-dec73b167043
 
 ### Le but 
 
-Ce projet parle de la `mémoire collective` et de son lien avec la mémoire individuelle. Le but est que l’utilisateur puisse laisser une trainée derrière lui.Chaque trace individuelle va se superposer aux autres et ainsi constituer une mémoire collective.
+Ce projet parle de la `mémoire collective` et de son lien avec la mémoire individuelle. Le but est que l’utilisateur puisse laisser une trainée derrière lui. Chaque trace individuelle va se superposer aux autres et ainsi constituer une mémoire collective.
 
 ### La mémoire collective pour nous 
 
@@ -28,16 +28,16 @@ Le dispositif est conçu pour une `experience individuelle`.
 
 Un visiteur entre dans la salle du dispositif et il voit des traces colorées au sol.
 
-Il entre ensuite dans la zone de captation et reveil le dispositif qui lui indique un chemin
+Il entre ensuite dans la zone de captation et réveil le dispositif qui lui indique un chemin.
 
-Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa  `trace personnelle`  par dessus les autres.
+Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc de laisse sa  `trace personnelle`  par dessus les autres.
 
-A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives.
+À la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives.
 
 ## Comment configurer et remonter le dispositif
 
 ### 1. Télécharger le dossier `fichier_augmenta_fusion` et `tracecollectivetd`.
-
+ 
 Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmenta. Il y a aussi quelques documentations pour mieux comprendre le logiciel : 
 
 - [Overview Augmenta + TouchDesigner](https://docs.augmenta.tech/create-content/touchdesigner)
@@ -66,6 +66,13 @@ Pour configurer AugmentaFusion, il faut contacter au préalable l'équipe Augmen
 Le workshop durant 3 jours , pour que le dispositif soit fonctionnelle nous avons du faire des choix. Si nous avions eu plus de temps voici ce que l'on aurrais aimé faire ou changer :
 
 - Il y a un décalage car la zone de détection d'Augmenta est inférieur à la zone d'affichage du projecteur. Il faut un travail de calibration supplémentaire.
+
+- La projection de la mémoire collective, censée recenser l’ensemble des traces laissées par les visiteurs, prend actuellement la forme d’une vidéo préenregistrée. Elle est donc identique pour tous et n’évolue pas dans le temps.
+Afin de donner un véritable caractère collectif et évolutif à cette mémoire, il serait nécessaire d’enregistrer la trace de chaque visiteur après son passage, puis de les superposer progressivement. La mémoire collective se construirait ainsi au fil des visites, s’enrichissant continuellement des contributions de chacun.
+
+- Le dispositif pourrait également, après un temps déterminé correspondant à la fin de l’expérience, s’éteindre automatiquement. Cette extinction permettrait de réguler le flux des visiteurs et de marquer clairement la conclusion du parcours.
+
+## Médiation
 
 ## Feedback
 
