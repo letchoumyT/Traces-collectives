@@ -24,15 +24,29 @@ Au cours de cette balade au sein du dispositif, nous explorons l’espace qui no
 
 ### Principe du dispositif
 
+<img src="photos/etape1.png" alt="Le dispositif est conçu pour une `experience individuelle`.." width="300"/>
+
 Le dispositif est conçu pour une `experience individuelle`.
+
+<img src="photos/etape2.png" alt="Un visiteur entre dans la salle du dispositif et il voit des traces colorées au sol." width="300"/>
 
 Un visiteur entre dans la salle du dispositif et il voit des traces colorées au sol.
 
-Il entre ensuite dans la zone de captation et reveil le dispositif qui lui indique un chemin
+<img src="photos/etape3.png" alt="Il entre ensuite dans la zone de captation et reveil le dispositif qui lui indique un chemin." width="300"/>
 
-Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa  `trace personnelle`  par dessus les autres.
+Il entre ensuite dans la zone de captation et reveil le dispositif qui lui indique un chemin.
 
-A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives.
+<img src="photos/etapeintermediaire.png" alt="Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa  `trace personnelle`  par dessus les autres." width="540"/>
+
+![Le visiteur à le choix de suivre ce chemin ou non , de courir , danser , marcher , sauter... et donc laisse sa  `trace personnelle`  par dessus les autres.](photos/etapeinter.gif)
+
+Le visiteur à le choix de suivre ce chemin ou non, de courir, danser , marcher, sauter... et donc laisse sa  `trace personnelle`  par dessus les autres.
+
+<img src="photos/etapefinale.gif" alt="A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives." width="300"/>
+
+<img src="photos/ezgifetapefinal.gif" alt="A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres trace. Elle fait maintenant parti des traces collectives." width="300"/>
+
+A la fin du chemin, lorsque le visiteur sors de la zone de captation, il peut visualiser sa trace qui se fond parmis les autres traces. Elle fait maintenant parti des traces collectives.
 
 ## Comment configurer et remonter le dispositif
 
