@@ -88,6 +88,8 @@ Afin de donner un véritable caractère collectif et évolutif à cette mémoire
 
 ## Médiation
 
+Elle est assez libre, la seule contrainte est de bien préciser où se trouve l'entrée pour accéder au dispositif. Normalement, la personne entre toute seule, mais une fois que l'expérience a été réalisée, le dispositif peut être vécu à plusieurs.
+
 ## Feedback
 
 - Plusieurs visiteurs ont remarqué que le dispositif leur faisait passer au [chemin de désir](https://fr.wikipedia.org/wiki/Ligne_de_d%C3%A9sir). Ça serait intéressant pour eux de voir ce genre de chemin remonter au fur et à mesure du dispositif.
