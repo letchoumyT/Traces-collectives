@@ -1,7 +1,7 @@
 # Traces-collectives
 Ce projet a été réalisé en 3 jours lors du workshop de l'École de Design Villefontaine + Erasme (métropole de Lyon) sur le thème de la mémoire par `Letchoumy THIAGARADJA` et `Thaï LAI`.
 
-https://github.com/user-attachments/assets/fe0e2f7e-76fb-4de6-a634-dec73b167043
+https://github.com/user-attachments/assets/2886e8f8-b254-4a0b-bbc3-c53688383fb2
 
 ## Les prérequis
 
